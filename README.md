@@ -1,10 +1,10 @@
-markdown# 🧭 happy-keystone 던전 공략 위키
+🧭 happy-keystone 던전 공략 위키
 
 `happy-keystone` 리포지토리에 오신 것을 환영합니다! 
-이곳은 와우(WoW) 쐐기 던전들의 핵심 공략과 루트를 정리해 두는 비공식 가이드북입니다.
+해피쐐기 기록실
 
-## 🗂️ 수록 던전 목록
-왼쪽 사이드바 메뉴를 이용하거나, 아래 링크를 클릭하여 원하는 던전의 공략을 바로 확인하세요.
+## 🗂️ 던전 목록
+왼쪽 사이드바 메뉴를 이용하거나, 아래 링크를 클릭하여 원하는 던전의 기록을 바로 확인하세요.
 
   * [공결탑 제나스](제나스.md)
   * [마법학자의 정원](마법학자의정원.md)
@@ -15,21 +15,19 @@ markdown# 🧭 happy-keystone 던전 공략 위키
   * [윈드러너 첨탑](윈드러너첨탑.md)
   * [하늘탑](하늘탑.md)
 
----
-
-## 
+## 영상
 
 #### 20알게타르
-https://www.youtube.com/watch?v=LPPR29H4yG8&t=209s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LPPR29H4yG8?si=gXN0kDtRIVPfCdOI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 #### 20제나스
-https://www.youtube.com/watch?v=-cqRJAXrOHs&t=808s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-cqRJAXrOHs?si=1YtZncObVouZ1F2x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 #### 20첨탑
-https://www.youtube.com/watch?v=eSvLcvjS8zY&t=1252s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eSvLcvjS8zY?si=DGmyYSoLQHxEn8Nk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 #### 20샤론
-https://www.youtube.com/watch?v=QkSPB5mQx-0&t=7s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QkSPB5mQx-0?si=x0AOXw5OUh8OtqTo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 #### 20마이사라
-https://www.youtube.com/watch?v=wcvxV0FXQwo&t=181s
-
---- 
-*지속적으로 던전 공략 및 루트가 업데이트됩니다.*
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wcvxV0FXQwo?si=GIDjAXMvT0rEACtF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
