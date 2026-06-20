@@ -1,20 +1,6 @@
 # 알게타르대학
 ---
-## 참고영상
-
-#### 앤디
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/93TZhtzNpi0?si=T3t78EJKyqN5y4_j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-## MDT루트
-
----
-## 패스
----
-
 ## 메모
-
 ### 6/17
 - 짤 징표 이슈 있었음 -> 논의 완료 (쿠마:다이아/뚱땅:역삼/디빙:별/논논:엑스)
 - 벡사무스 앞 쫄 CC처리 순서
@@ -22,3 +8,13 @@
   2. 쇄도 담당 차단 
   3. 수면시전 완료되는거 보고 행불포 or 팽차
   4. 논논 드리블 + 쇄도 개인차단 + CC연계
+---
+## 패스
+---
+## MDT루트
+---
+## 참고영상
+
+#### 앤디
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/93TZhtzNpi0?si=T3t78EJKyqN5y4_j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
