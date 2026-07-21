@@ -1,20 +1,12 @@
 # 알게타르대학
 ---
-## 메모
-### 6/17
-- 짤 징표 이슈 있었음 -> 논의 완료 (쿠마:다이아/뚱땅:역삼/디빙:별/논논:엑스)
-- 벡사무스 앞 쫄 CC처리 순서
-  1. 디빙이 영숨 -> 지변 
-  2. 쇄도 담당 차단 
-  3. 수면시전 완료되는거 보고 행불포 or 팽차
-  4. 논논 드리블 + 쇄도 개인차단 + CC연계
----
-## 패스
----
 ## MDT루트
+<iframe src="https://keystone.guru/route/algethar-academy/lDCaM1N/%EC%95%8C%EA%B2%8C%ED%83%80%EB%A5%B4-%EB%8C%80%ED%95%99/embed" style="width: 800px; height: 600px; border: none;"></iframe>
 ---
-## 참고영상
 
-#### 앤디
+## 메모
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/93TZhtzNpi0?si=T3t78EJKyqN5y4_j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- 1넴 평고가 깔려고 포악은 어그로 대비할 것
+- 2넴 비명 탈태로 씹어줄 수 있으면 좋음
+- 2넴 45%진입전 부죽 쿨정렬 확인하고 45%부터 탈태해서 1붕쏘고 알른시야 중첩 기도
+
