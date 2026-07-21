@@ -1,28 +1,18 @@
 # 마법학자의 정원
 ---
-
-## 메모
-
-### 6/17
-
-- 라투아 마비풀링때 통로 가운데 잡지 말고 입구쪽에서 딜하기 ( -> 애드 났음 )
-- 공허방랑자 전담짤(1짤됨)니까 그냥 믿고 달려가기
-- 징표도 그냥 우리가 (딜러)가 박을꺼니까 빠른풀이 시간단축에 더 좋을듯
----
-## 패스
-1. 비전골렘 스킵 (웨이른)
-2. 1넴잡고 마비 풀링 (라투아) + 딜러 오브젝트물약먹기
-3. 2넴잡고 중보 그숨 스킵 (쿠마 변환, 와류요청)
----
 ## MDT루트
+<iframe src="https://keystone.guru/route/magisters-terrace/7t3B6vu/%EB%A7%88%EB%B2%95%ED%95%99%EC%9E%90%EC%9D%98-%EC%A0%95%EC%9B%90/embed" style="width: 800px; height: 600px; border: none;"></iframe>
 ---
-## 참고영상
 
-#### 앤디
+## 패스
+ - 비전골렘 스킵
+ - 9->10스킵에서 그숨 웨이른 상당히 빠르게 (와류 X)
+---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wwi5Mmg2RO4?si=LVVGS2ZjvdlDOxLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## 클리어영상
 
-#### 요다
+22단 부죽
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K61nOznsNfM?si=3-gG8-QJ13Jyo7tD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OEKjTYNmFhY?si=Q6hvN2LHY-TnlyWn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+22단 포악
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eZFfwzXVSZ0?si=_LOYjnycjIUbiEd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
