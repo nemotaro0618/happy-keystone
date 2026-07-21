@@ -1,22 +1,18 @@
 # 제나스
 ---
-## 메모
-### 6/17
-- 첫풀링 계단으로 드리블 했다가 역방향으로 꺽기
-- 3번풀 숙련병을 마비 -> 죽손 (애드조심)
-- 1넴 빼는콜 확실하게 하기
-- 2넴가는길 탱커 디테일 알아오기 (아픔)
-- 2넴 딜 최적화 && 탱버대처 생각해오기
----
-## 패스
----
 ## MDT루트
+<iframe src="https://keystone.guru/route/nexuspoint-xenas/kueE70z/%EA%B3%B5%EA%B2%B0%ED%83%91-%EC%A0%9C%EB%82%98%EC%8A%A4/embed" style="width: 800px; height: 600px; border: none;"></iframe>
 ---
-## 참고영상
 
-#### 앤디
+## 메모
+- 2넴 탱커 위치 앞뒤로 조절
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dk28FwN-XbE?si=XNjaQKILAVqo_cPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## 클리어영상
 
+#### 22단 부죽
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5_6DrLvW5Zo?si=Oort7buBgHbtqp7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### 22단 포악
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hFoOb0NJ8YM?si=ThUjUHcmJwV1EoTu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
