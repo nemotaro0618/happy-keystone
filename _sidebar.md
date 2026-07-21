@@ -3,7 +3,7 @@
     - [마법학자의 정원](terrace.md)
     - [마이사라 동굴](maisara.md)
     - [삼두정의 권좌](samdujeong.md)
-    - [샤론의 구덩이](sharon.md)
+    - [사론의 구덩이](사론의구덩이.md)
     - [알게타르 대학](algethar.md)
     - [윈드러너 첨탑](windrunner.md)
     - [하늘탑](skytower.md)
