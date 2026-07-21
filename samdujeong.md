@@ -1,20 +1,20 @@
 # 삼두정
 ---
-## 메모
----
-## 패스
----
 ## MDT루트
----
-## 참고영상
-#### 앤디
+<iframe src="https://keystone.guru/route/seat-of-the-triumvirate/KXNMXLv/%EC%82%BC%EB%91%90%EC%A0%95%EC%9D%98-%EA%B6%8C%EC%A2%8C/embed" style="width: 800px; height: 600px; border: none;"></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_3eBEe9m-Q?si=Nx1daNw6-P2kledd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-특이점
-- 9분대 풀링 다른 영상에서 수드 한번 죽었음 
+## 메모
+- 1번풀 사슬 이격하면서 진입
+- 용사를 붙일땐 운무 or 포식이 끌어와줄 것
+- 10번풀 악사/증강이 차단보면서 이동
 
 
-#### 요다
+## 클리어영상
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x9JCQheBTTM?si=nshahybA0roeKrRC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+22단 포악
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OAxPBo7oQRM?si=P1WT8SaBTH_e7uQ9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+22단 부죽
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rkRZC5YdHNU?si=YjyUCzx3dr1HKefZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
